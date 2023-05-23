@@ -1,0 +1,13 @@
+.detail-container {
+  width: 300px;
+  border-radius: 10px;
+  border: 1px solid rgb(219, 210, 210);
+  margin: 1rem;
+  padding: 0 0.5rem;
+}
+
+@media (max-width: 449px) {
+  .detail-container {
+    width: 85vw;
+  }
+}

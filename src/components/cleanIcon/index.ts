@@ -1,0 +1,1 @@
+export { CleanIcon } from "./CleanIcon";
